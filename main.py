@@ -8,6 +8,7 @@ print(rect.get_area())
 rect.set_width(3)
 print(rect.get_perimeter())
 print(rect)
+print(rect.get_picture())
 
 sq = shape_calculator.Square(9)
 print(sq.get_area())
